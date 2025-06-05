@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="city_name">City Name</string>
+    <string name="select_date_name">Date</string>
+    <string name="ai_model_topic">ChatGPT says:</string>
+    <string name="show_forecast">Show Forecast</string>
+    <string name="back_btn">Back</string>
+    <string name="temperature_format">%.1f°C</string>
+    <string name="temperature_feels_format">Feels: %.1f°C</string>
+    <string name="wind_speed_format">%.2f m/s</string>
+    <string name="pressure_format">%d hPa</string>
+    <string name="visibility_format">%d m</string>
+    <string name="humidity_format">%d %%</string>
+    <string name="background_image">Background image</string>
+    <string name="weather_background">Weather background</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="app_logo">WeatherForecast</string>
+</resources>
