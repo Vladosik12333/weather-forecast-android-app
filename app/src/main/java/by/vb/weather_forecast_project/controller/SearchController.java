@@ -11,7 +11,7 @@ import by.vb.weather_forecast_project.view.SearchActivityView;
 public class SearchController {
     private final SearchActivityView view;
     private LocalDate originalDate;
-
+private String example;
     public SearchController(SearchActivityView view) {
         this.view = view;
     }
